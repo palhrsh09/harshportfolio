@@ -75,7 +75,7 @@ export const CompanyProjects = [
     title: "E-Commerce Website - Chawla Ispat",
     des: "Explore  the products which our Company Sell .",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
@@ -110,7 +110,7 @@ export const PersonalProjects = [
     title: "E-Commerce Website ",
     des: "A Multi Vendor Website that ive made for people to  buy and sell there desired projects .",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
@@ -212,7 +212,7 @@ export const workExperience = [
     desc: "Assisted in the development of a web-based platform using React.js and Node.js , enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
-    workDate: "Jan 2024-Sep 2024",
+    workDate: "May 2023-Nov 2023",
     company: "Numeric Infosystem",
   },
   {
@@ -221,7 +221,7 @@ export const workExperience = [
     desc: "Designed and developed mobile & website for my Company done more then 4 projects there.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
-    workDate: "May 2023-Nov 2023",
+    workDate: "Jan 2024-Sep 2024",
     company: "Chawla Technology",
   },
 ];
