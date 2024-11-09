@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  // { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -74,7 +74,7 @@ export const CompanyProjects = [
     id: 1,
     title: "E-Commerce Website - Chawla Ispat",
     des: "Explore  the products which our Company Sell .",
-    img: "/p1.svg",
+    img: "/p2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
@@ -83,23 +83,23 @@ export const CompanyProjects = [
     title: "Inventory Management System",
     des: "System to manage Invenotry for the Chawla AutoComponents.",
     img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Sales website",
+    des: "A website for selling all our company products and to do nilling and all stuff.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
     link: "/ui.aiimg.com",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Clockin Clokout app",
+    des: "A mobile app for tracking when someone Clockin or Clockout.",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "/ui.apple.com",
   },
 ];
@@ -109,9 +109,9 @@ export const PersonalProjects = [
     id: 1,
     title: "E-Commerce Website ",
     des: "A Multi Vendor Website that ive made for people to  buy and sell there desired projects .",
-    img: "/p1.svg",
+    img: "/p2.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/palhrsh09/ecommercefrontend_v2",
   },
   {
     id: 2,
@@ -119,23 +119,23 @@ export const PersonalProjects = [
     des: "A site where we can we rent or buy house, apartnments.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://github.com/palhrsh09/dreamnest",
   },
   {
     id: 3,
     title: "Gym Website (UI)",
     des: "ShowCasing about a gym.",
-    img: "/p3.svg",
+    img: "/gym-website.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://gym-website-pearl.vercel.app/",
   },
   {
     id: 4,
-    title: "Microsoft Website Clone (UI)",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Virtual reality software platform",
+    des: "Landing Page for Virtual reality Software Platform",
+    img: "/virtaul-r.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://virtualr-ai-website.vercel.app/",
   },
 ];
 
@@ -230,13 +230,15 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/palhrsh09",
   },
-  {
-    id: 2,
-    img: "/twit.svg",
-  },
+  // {
+  //   id: 2,
+  //   img: "/twit.svg",
+  // },
   {
     id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/harsh-pal-0800b7230/",
   },
 ];
